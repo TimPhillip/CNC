@@ -1,9 +1,9 @@
-use<profiles.scad>
-use<linear_guide.scad>
-use<aluminium_plate.scad>
-use<stepper_motor.scad>
-use<3d_printed_parts.scad>
-use<spindle_motor.scad>
+use<parts/profiles.scad>
+use<parts/linear_guide.scad>
+use<parts/aluminium_plate.scad>
+use<parts/stepper_motor.scad>
+use<parts/3d_printed_parts.scad>
+use<parts/spindle_motor.scad>
 
 /* [Frame]*/
 // Show the main frame
